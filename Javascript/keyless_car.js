@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 function check_driver_age() {
     var age = prompt("What is your age?");
 
