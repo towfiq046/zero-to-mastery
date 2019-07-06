@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 var database = [
     {
         username: "user1",

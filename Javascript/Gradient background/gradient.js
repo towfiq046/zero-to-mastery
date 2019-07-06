@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 var body = document.querySelector("body");
 var h3 = document.querySelector("h3")
 
